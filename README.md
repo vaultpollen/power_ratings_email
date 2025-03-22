@@ -1,5 +1,5 @@
 # power_ratings_email
-Google Apps Script that will automatically email the user the latest power ratings for any sport that can be found on Sonny Moore's Power Ratings website. Example script is for the NHL.
+Google Apps Script and Google Sheets formula that will automatically email the user the latest power ratings for any sport that can be found on Sonny Moore's Power Ratings website at a custom interval. Example script is for the NHL.
 
 To use:
 
